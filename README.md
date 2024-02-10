@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @definitelynotTheanz
+- 👋 Hi, I’m ChhayThean!!
 - 👀 I’m interested in Data Science and Ai.
 - 🌱 I’m currently learning in department of Applied Mathematics and Statistics.
-- 📫 How to reach me : Contact me by email me...🤙
-- 😄 Pronouns: ...
+- 📫 How to reach me : Contact me by emailing me...🤙
 - ⚡ Fun fact: I'm loving a girl who see me as a friend 😭🙏
 
 <!---
